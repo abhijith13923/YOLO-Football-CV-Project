@@ -1,6 +1,6 @@
 # ⚽ Football Players Detection using YOLO
 
-This project is a mini computer vision application that uses **YOLO (Ultralytics)** to detect important objects in football match images.
+This project is a mini Computer Vision application that uses **YOLO (Ultralytics)** to detect important objects in football match images.
 
 The model is trained to detect the following classes:
 - 🧍 Player
